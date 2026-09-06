@@ -28,7 +28,9 @@ A two-subsystem IoT robotics project built for competition. A wireless gesture g
 ## Overview
 
 Hazardous environments such as fire scenes, chemical spill zones, and explosive disposal sites pose extreme risks to human personnel. This project presents a remotely operated reconnaissance vehicle capable of entering these zones, collecting environmental data, and streaming it live to a cloud dashboard — while the operator retains full control from a safe distance.
-
+**Thingspeak Dashboard**
+Find the the Thingspeak dashboard here: 
+https://thingspeak.mathworks.com/channels/3381636/
 **Key features:**
 - Tilt-based gesture control via MPU-6050 glove
 - IR remote backup override
