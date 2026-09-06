@@ -1,7 +1,7 @@
 #  Gesture-Controlled Hazardous Environment Reconnaissance Vehicle
 
 
-<img width="394" height="278" alt="image" src="https://github.com/user-attachments/assets/0c647ad4-567a-47d5-a806-e3d8463813e7" />
+                        <img width="394" height="278" alt="image" src="https://github.com/user-attachments/assets/0c647ad4-567a-47d5-a806-e3d8463813e7" />
 
 
 A two-subsystem IoT robotics project built for competition. A wireless gesture glove controls a sensor-equipped ground vehicle that streams live environmental telemetry to a ThingSpeak cloud dashboard — with full bidirectional control.
